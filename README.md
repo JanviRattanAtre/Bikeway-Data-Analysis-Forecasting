@@ -1,7 +1,3 @@
-Here’s a polished project description for the `README.md`:
-
----
-
 # Bikeway Data Analysis and Forecasting
 
 ## Overview
@@ -52,10 +48,7 @@ The project uses bikeway traffic data, which may include:
    ```bash
    pip install -r requirements.txt
    ```
-4. Run the analysis scripts:
-   ```bash
-   python main.py
-   ```
+4. Run the analysis script
 
 ## Results
 
